@@ -1,0 +1,3 @@
+C:\Program Files\FFmpeg
+
+win knapp - skriv: redigera systemets miljövariabler, ta bort ffmpeg från "path".
